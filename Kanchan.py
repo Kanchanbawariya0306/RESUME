@@ -21,11 +21,7 @@ a = """<html>
 <p>Contact No.: 7389030668</p>
  
   <h2><u>CAREER OBJECTIVE</u></h2>
-  <p>To succeed in an environment of growth 
-     and excellence in computer science and 
-     earn a job which provide me job satisfaction
-     and self development and help me in achieving
-      personal as well as organization goals.</p>
+  <p>To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.</p>
             <h2><u>EDUCATION </u></h2>
             <table border="1">
                 <tr >
